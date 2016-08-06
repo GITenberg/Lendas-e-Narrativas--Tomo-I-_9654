@@ -1,0 +1,28 @@
+_repo: Lendas-e-Narrativas--Tomo-I-_9654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herculano, Alexandre
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '3118'
+    url: http://www.gutenberg.org/2009/agents/3118
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Alexandre_Herculano
+    - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9654'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Lendas e Narrativas (Tomo I)
+url: http://www.gutenberg.org/ebooks/9654
