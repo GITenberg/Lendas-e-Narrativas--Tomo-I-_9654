@@ -1,5 +1,8 @@
 _repo: Lendas-e-Narrativas--Tomo-I-_9654
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Herculano, Alexandre
@@ -11,6 +14,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Alexandre_Herculano
     - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9654#Lendas-e-Narrativas--Tomo-I-
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
